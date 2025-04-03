@@ -46,12 +46,12 @@ Our expertise spans critical areas of semiconductor manufacturing and research:
 <br>
 <p align="center">
   <img src="1.png" alt="SemiTEq Plasma Etching System" width="85%">
-  <br><em>Advanced Plasma Etching System by SemiTEq</em>
+  <br><em>Molecular Beam Epitaxy, Electron beam etching system and Advanced Plasma Etching System by SemiTEq</em>
 </p>
 <h2><img src="https://img.icons8.com/fluency-systems-filled/24/007ACC/test-tube.png" alt="Lab Icon" style="vertical-align: middle;"> Application Laboratory & Support</h2>
 <p align="center">
   <img src="2.png" alt="SemiTEq Plasma Etching System" width="85%">
-  <br><em>Advanced Plasma Etching System by SemiTEq</em>
+  <br><em>MBE System by SemiTEq</em>
 </p>
 
 *   🧪 **State-of-the-Art Application Lab:** Our dedicated lab focuses on developing key technological processes, rigorously testing and demonstrating equipment capabilities, and validating performance characteristics. Our experts collaborate with clients to define optimal system configurations tailored to specific research or production goals.
